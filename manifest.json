@@ -6,8 +6,8 @@
     "theme_color": "#F0DB4F",
     "orientation": "portrait",
     "display": "standalone",
-    "start_url": "/",
-    "scope": "/",
+    "start_url": "./index.html",
+    "scope": "./",
     "lang": "es-MX",
     "icons": [
       {
